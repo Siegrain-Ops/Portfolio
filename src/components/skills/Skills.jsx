@@ -120,7 +120,7 @@ const skills = () => {
               </article>
               <article className='experience_details'>
                 <BsFillPatchCheckFill className='experience_details-icon'/>
-                <h4>Cold Minded</h4>
+                <h4>Cool Minded</h4>
               </article>
               <article className='experience_details'>
                 <BsFillPatchCheckFill className='experience_details-icon'/>
